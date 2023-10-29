@@ -1,6 +1,6 @@
 # CommonLit - Evaluate Student Summaries check [on](https://www.kaggle.com/competitions/commonlit-evaluate-student-summaries)
 
-### this solution got me top 28 place on Efficient LeaderBoard [here](https://www.kaggle.com/code/ryanholbrook/evaluate-student-summaries-efficiency-lb) as name as `Bit_Guber`
+### this solution got me <mark>top 28 place</mark> on Efficient LeaderBoard [here](https://www.kaggle.com/code/ryanholbrook/evaluate-student-summaries-efficiency-lb) as name as `Bit_Guber`
 
 ## Goal of the Competition
 
