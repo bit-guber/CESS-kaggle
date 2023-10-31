@@ -1,6 +1,6 @@
 # CommonLit - Evaluate Student Summaries check [on](https://www.kaggle.com/competitions/commonlit-evaluate-student-summaries)
 
-### this solution got me `top 28 place` on Efficient LeaderBoard [here](https://www.kaggle.com/code/ryanholbrook/evaluate-student-summaries-efficiency-lb) as name as `Bit_Guber`
+### this solution got me passed RMSE 0.539931 (lower is better) and `top 28 place` on Efficient LeaderBoard [here](https://www.kaggle.com/code/ryanholbrook/evaluate-student-summaries-efficiency-lb) as name as `Bit_Guber`
 ## Problem Overview
 Summary writing is an important skill for learners of all ages. Summarization enhances reading comprehension, particularly among second language learners and students with learning disabilities. Summary writing also promotes critical thinking, and it’s one of the most effective ways to improve writing abilities. However, students rarely have enough opportunities to practice this skill, as evaluating and providing feedback on summaries can be a time-intensive process for teachers. Innovative technology like large language models (LLMs) could help change this, as teachers could employ these solutions to assess summaries quickly.
 
